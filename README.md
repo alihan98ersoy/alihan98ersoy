@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Alihan
 
-<!--
-**alihan98ersoy/alihan98ersoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![t](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/216150/5933160d2b734175fd7e7adbeb894fc1b4a02f08.gif)
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihan98ersoy/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👯 I’m currently collaborating on
+- [Huawei Mobile Services Plugin for Unity](https://github.com/EvilMindDevs/hms-unity-plugin) 
+- [Unity HMS SDK](https://github.com/EvilMindDevs/hms-sdk-unity)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan98ersoy)](https://github.com/anuraghazra/github-readme-stats)
+
+
