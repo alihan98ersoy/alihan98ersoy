@@ -11,9 +11,7 @@
 
 ![t](https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/216150/5933160d2b734175fd7e7adbeb894fc1b4a02f08.gif)
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihan98ersoy/)
-[![ArtStation Badge](https://img.shields.io/badge/ArtStation-%230077B5.svg?&style=plastic&logo=ArtStation&logoColor=red)](https://www.artstation.com/alihan98ersoy/)
-[![500px Badge](https://img.shields.io/badge/500px-%230077B5.svg?&style=plastic&logo=500px&logoColor=white)](https://500px.com/p/alihan98ersoy)
+[![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?&style=metal&logo=linktree&logoColor=green)](https://linktr.ee/alihan98ersoy)
 
  👯 I’m currently collaborating on
 - [Huawei Mobile Services Plugin for Unity](https://github.com/EvilMindDevs/hms-unity-plugin) 
