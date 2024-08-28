@@ -13,9 +13,7 @@
 
 [![Linktree](https://img.shields.io/badge/Linktree-%230077B5.svg?&style=metal&logo=linktree&logoColor=green)](https://linktr.ee/alihan98ersoy)
 
- 👯 I’m currently collaborating on
-- [Huawei Mobile Services Plugin for Unity](https://github.com/EvilMindDevs/hms-unity-plugin) 
-- [Unity HMS SDK](https://github.com/EvilMindDevs/hms-sdk-unity)
+ 👯 I’m currently working on my game project.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alihan98ersoy)](https://www.linkedin.com/in/alihan98ersoy/)
 
